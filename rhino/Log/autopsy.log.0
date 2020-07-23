@@ -1,0 +1,274 @@
+2020-07-05 13:31:50.32 org.sleuthkit.autopsy.centralrepository.datamodel.RdbmsCentralRepo upgradeSchema
+INFO: Central Repository is up to date
+2020-07-05 13:31:50.615 org.sleuthkit.autopsy.keywordsearch.Server isRunning
+INFO: Solr server is running
+2020-07-05 13:31:51.664 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.25.2 loaded in native mode
+2020-07-05 13:31:51.736 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened rhino (rhino_20200705_131956) in G:\rhino as the current case
+2020-07-05 13:32:12.147 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Correlation Engine, version = 4.15.0
+2020-07-05 13:32:12.154 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.15.0
+2020-07-05 13:32:12.163 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Drone Analyzer, version = 4.15.0
+2020-07-05 13:32:12.17 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.15.0
+2020-07-05 13:32:12.176 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.15.0
+2020-07-05 13:32:12.183 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Exif Parser, version = 4.15.0
+2020-07-05 13:32:12.189 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.15.0
+2020-07-05 13:32:12.194 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.15.0
+2020-07-05 13:32:12.2 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.15.0
+2020-07-05 13:32:12.205 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.15.0
+2020-07-05 13:32:12.21 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2020-07-05 13:32:12.228 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Plaso, version = 4.15.0
+2020-07-05 13:32:12.236 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.15.0
+2020-07-05 13:32:12.236 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.15.0
+2020-07-05 13:32:12.238 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.15.0
+2020-07-05 13:32:12.239 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.15.0
+2020-07-05 13:32:25.774 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.15.0
+2020-07-05 13:32:25.775 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = GPX Parser, version = 1.2
+2020-07-05 13:36:43.265 org.sleuthkit.autopsy.contentviewers.FileViewer isSupported
+INFO: Mimetype not known for file: Unalloc_12_279040_259506176
+2020-07-05 13:37:16.212 org.sleuthkit.autopsy.contentviewers.FileViewer isSupported
+INFO: Mimetype not known for file: Unalloc_12_279040_259506176
+2020-07-05 13:52:23.889 org.sleuthkit.autopsy.contentviewers.FileViewer isSupported
+INFO: Mimetype not known for file: Unalloc_12_279040_259506176
+2020-07-05 13:54:08.203 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Correlation Engine, version = 4.15.0
+2020-07-05 13:54:08.204 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.15.0
+2020-07-05 13:54:08.204 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Drone Analyzer, version = 4.15.0
+2020-07-05 13:54:08.204 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.15.0
+2020-07-05 13:54:08.204 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.15.0
+2020-07-05 13:54:08.204 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Exif Parser, version = 4.15.0
+2020-07-05 13:54:08.204 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.15.0
+2020-07-05 13:54:08.204 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.15.0
+2020-07-05 13:54:08.204 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.15.0
+2020-07-05 13:54:08.204 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.15.0
+2020-07-05 13:54:08.204 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2020-07-05 13:54:08.205 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Plaso, version = 4.15.0
+2020-07-05 13:54:08.205 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.15.0
+2020-07-05 13:54:08.205 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.15.0
+2020-07-05 13:54:08.205 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.15.0
+2020-07-05 13:54:08.205 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.15.0
+2020-07-05 13:54:08.439 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.15.0
+2020-07-05 13:54:08.44 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = GPX Parser, version = 1.2
+2020-07-05 13:54:29.544 org.sleuthkit.autopsy.ingest.IngestPipelinesConfiguration getInstance
+INFO: Creating ingest module loader instance
+2020-07-05 13:54:29.644 org.sleuthkit.autopsy.ingest.IngestMonitor$MonitorTimerAction logMonitoredRootDirectory
+INFO: Monitoring disk space of G:\
+2020-07-05 13:54:29.644 org.sleuthkit.autopsy.ingest.IngestManager startIngestJob
+INFO: Starting ingest job 0
+2020-07-05 13:54:29.773 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer loadConfigFile
+INFO: Load successful
+2020-07-05 13:54:31.819 org.sleuthkit.autopsy.keywordsearch.Server isRunning
+INFO: Solr server is running
+2020-07-05 13:54:31.872 org.sleuthkit.autopsy.ingest.DataSourceIngestJob logInfoMessage
+INFO: Starting first stage analysis (data source = RHINOUSB.dd, objId = 15, jobId = 0)
+2020-07-05 13:54:31.874 org.sleuthkit.autopsy.ingest.DataSourceIngestJob logInfoMessage
+INFO: Scheduling first stage data source and file level analysis tasks (data source = RHINOUSB.dd, objId = 15, jobId = 0)
+2020-07-05 13:54:31.876 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Recent Activity analysis of RHINOUSB.dd (jobId=0) starting
+2020-07-05 13:54:31.878 org.sleuthkit.autopsy.recentactivity.Chrome getHistory
+INFO: Could not find any allocated Chrome history files.
+2020-07-05 13:54:31.879 org.sleuthkit.autopsy.recentactivity.Chrome getBookmark
+INFO: Didn't find any Chrome bookmark files.
+2020-07-05 13:54:31.879 org.sleuthkit.autopsy.recentactivity.Chrome getCookie
+INFO: Didn't find any Chrome cookies files.
+2020-07-05 13:54:31.88 org.sleuthkit.autopsy.recentactivity.Chrome getLogins
+INFO: Didn't find any Chrome Login Data files.
+2020-07-05 13:54:31.881 org.sleuthkit.autopsy.recentactivity.Chrome getAutofill
+INFO: Didn't find any Chrome Web Data files.
+2020-07-05 13:54:31.881 org.sleuthkit.autopsy.recentactivity.Chrome getDownload
+INFO: Didn't find any Chrome download files.
+2020-07-05 13:54:31.883 org.sleuthkit.autopsy.recentactivity.Firefox getHistory
+INFO: No FireFox history files found.
+2020-07-05 13:54:31.884 org.sleuthkit.autopsy.recentactivity.Firefox getBookmark
+INFO: Didn't find any firefox bookmark files.
+2020-07-05 13:54:31.884 org.sleuthkit.autopsy.recentactivity.Firefox getDownloadPreVersion24
+INFO: Didn't find any pre-version-24.0 Firefox download files.
+2020-07-05 13:54:31.884 org.sleuthkit.autopsy.recentactivity.Firefox getDownloadVersion24
+INFO: Didn't find any version-24.0 Firefox download files.
+2020-07-05 13:54:31.885 org.sleuthkit.autopsy.recentactivity.Firefox getCookie
+INFO: Didn't find any Firefox cookie files.
+2020-07-05 13:54:31.885 org.sleuthkit.autopsy.recentactivity.Firefox getFormsHistory
+INFO: No FireFox form history files found.
+2020-07-05 13:54:31.886 org.sleuthkit.autopsy.recentactivity.Firefox getAutofillProfiles
+INFO: Didn't find any Firefox Autofill Profiles files.
+2020-07-05 13:54:31.887 org.sleuthkit.autopsy.recentactivity.ExtractIE getBookmark
+INFO: Didn't find any IE bookmark files.
+2020-07-05 13:54:31.887 org.sleuthkit.autopsy.recentactivity.ExtractIE getCookie
+INFO: Didn't find any IE cookies files.
+2020-07-05 13:54:31.888 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
+INFO: Pasco results path: G:\rhino\Temp\RecentActivity\IE\results
+2020-07-05 13:54:31.889 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
+INFO: Pasco2 home: D:\autopsy\pasco2
+2020-07-05 13:54:31.89 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
+INFO: No InternetExplorer history files found.
+2020-07-05 13:54:31.893 org.sleuthkit.autopsy.recentactivity.RecentDocumentsByLnk getRecentDocuments
+INFO: Didn't find any recent files.
+2020-07-05 13:54:31.894 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer findSearchQueries
+INFO: Processing 0 blackboard artifacts.
+2020-07-05 13:54:31.895 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer findSearchQueries
+INFO: Extracted 0 queries from the blackboard
+2020-07-05 13:54:31.895 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer process
+INFO: Search Engine stats: 
+Google : 0
+Yahoo : 0
+Twitter : 0
+LinkedIn : 0
+Facebook : 0
+Bing : 0
+Baidu : 0
+Sogou : 0
+Soso : 0
+Youdao : 0
+Yandex : 0
+Biglobe : 0
+Linkestan : 0
+Parseek : 0
+Parset : 0
+
+2020-07-05 13:54:32.02 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner startJob
+INFO: Adding job 0
+2020-07-05 13:54:32.022 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner startJob
+INFO: Resetting periodic search time out to default value
+2020-07-05 13:54:32.053 org.sleuthkit.autopsy.recentactivity.ExtractRecycleBin createRecycleBinArtifactType
+INFO: TSK_RECYCLE_BIN may have already been defined for this case
+2020-07-05 13:54:32.058 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer complete
+INFO: Search Engine URL Query Analyzer has completed.
+2020-07-05 13:54:32.058 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Recent Activity analysis of RHINOUSB.dd (jobId=0) finished
+2020-07-05 13:54:32.058 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Encryption Detection analysis of RHINOUSB.dd (jobId=0) starting
+2020-07-05 13:54:32.06 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Encryption Detection analysis of RHINOUSB.dd (jobId=0) finished
+2020-07-05 13:54:32.061 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Virtual Machine Extractor analysis of RHINOUSB.dd (jobId=0) starting
+2020-07-05 13:54:32.061 org.sleuthkit.autopsy.modules.vmextractor.VMExtractorIngestModule process
+INFO: Looking for virtual machine files in data source RHINOUSB.dd
+2020-07-05 13:54:32.064 org.sleuthkit.autopsy.modules.vmextractor.VMExtractorIngestModule process
+INFO: No virtual machine files found in data source RHINOUSB.dd
+2020-07-05 13:54:32.064 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Virtual Machine Extractor analysis of RHINOUSB.dd (jobId=0) finished
+2020-07-05 13:54:32.065 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Drone Analyzer analysis of RHINOUSB.dd (jobId=0) starting
+2020-07-05 13:54:32.069 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Drone Analyzer analysis of RHINOUSB.dd (jobId=0) finished
+2020-07-05 13:54:32.069 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Android Analyzer analysis of RHINOUSB.dd (jobId=0) starting
+2020-07-05 13:54:32.659 AndroidIngestModule process
+INFO: running 22 analyzers
+2020-07-05 13:54:32.688 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Android Analyzer analysis of RHINOUSB.dd (jobId=0) finished
+2020-07-05 13:54:32.688 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: GPX Parser analysis of RHINOUSB.dd (jobId=0) starting
+2020-07-05 13:54:32.692 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: GPX Parser analysis of RHINOUSB.dd (jobId=0) finished
+2020-07-05 13:57:55.808 org.sleuthkit.autopsy.ingest.DataSourceIngestJob logInfoMessage
+INFO: Finished first stage analysis (data source = RHINOUSB.dd, objId = 15, jobId = 0)
+2020-07-05 13:57:55.809 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Keyword search ingest module instance 1 shutting down
+2020-07-05 13:57:56.07 org.sleuthkit.autopsy.centralrepository.ingestmodule.CentralRepoIngestModule shutDown
+INFO: 137 artifacts in db for case: rhino ds:RHINOUSB.dd
+2020-07-05 13:57:56.07 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Keyword search ingest module instance 0 shutting down
+2020-07-05 13:57:56.071 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner endJob
+INFO: Commiting search index before final search for search job 0
+2020-07-05 13:57:57.208 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Starting final search for search job 0
+2020-07-05 13:57:57.208 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Checking for previous search for search job 0 before executing final search
+2020-07-05 13:57:57.209 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Kicking off final search for search job 0
+2020-07-05 13:57:57.209 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Waiting for final search for search job 0
+2020-07-05 13:57:57.317 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$Searcher doInBackground
+INFO: Searcher took 0 secs to run (final = true)
+2020-07-05 13:57:57.317 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$SearchJobInfo searchNotify
+INFO: Notifying after finishing search
+2020-07-05 13:57:57.317 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Final search for search job 0 completed
+2020-07-05 13:57:57.317 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner endJob
+INFO: No more search jobs. Stopping periodic search task
+2020-07-05 13:57:57.323 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Indexed files count: 149
+2020-07-05 13:57:57.328 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Indexed file chunks count: 15,538
+2020-07-05 13:57:57.329 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule postIndexSummary
+INFO: Keyword Indexing Completed: <table border=0><tr><td>Files with known types</td><td>3</td></tr><tr><td>Files with general strings extracted</td><td>137</td></tr><tr><td>Metadata only was indexed</td><td>0</td></tr><tr><td>Error (indexer)</td><td>0</td></tr><tr><td>Error (text extraction)</td><td>0</td></tr><tr><td>Error (I/O)</td><td>0</td></tr></table>
+2020-07-05 13:57:57.333 org.sleuthkit.autopsy.centralrepository.ingestmodule.CentralRepoIngestModule shutDown
+INFO: 137 artifacts in db for case: rhino ds:RHINOUSB.dd
+2020-07-05 13:57:57.333 org.sleuthkit.autopsy.ingest.DataSourceIngestJob logInfoMessage
+INFO: Starting second stage analysis (data source = RHINOUSB.dd, objId = 15, jobId = 0)
+2020-07-05 13:57:57.333 org.sleuthkit.autopsy.ingest.DataSourceIngestJob logInfoMessage
+INFO: Scheduling second stage data source level analysis tasks (data source = RHINOUSB.dd, objId = 15, jobId = 0)
+2020-07-05 13:57:57.334 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Data Source Integrity analysis of RHINOUSB.dd (jobId=0) starting
+2020-07-05 13:57:57.338 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Total chunks = 7,920
+2020-07-05 13:57:57.338 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Starting hash calculation for RHINOUSB.dd
+2020-07-05 13:58:00.153 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Hash calculated from RHINOUSB.dd: 80348c58eec4c328ef1f7709adc56a54
+2020-07-05 13:58:00.153 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Hash calculated from RHINOUSB.dd: b0a37478210eb2dac2672232aad67060842b6558
+2020-07-05 13:58:00.153 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Hash calculated from RHINOUSB.dd: ce550424200a997c61b413941c8ef4df9619a2f96579674952294a176a32be65
+2020-07-05 13:58:00.158 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Data Source Integrity analysis of RHINOUSB.dd (jobId=0) finished
+2020-07-05 13:58:00.158 org.sleuthkit.autopsy.ingest.DataSourceIngestJob logInfoMessage
+INFO: Finished analysis (data source = RHINOUSB.dd, objId = 15, jobId = 0)
+2020-07-05 13:58:00.161 org.sleuthkit.autopsy.ingest.IngestManager finishIngestJob
+INFO: Ingest job 0 completed
+2020-07-05 14:27:07.898 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Stopping Solr server from: D:\autopsy\solr
+2020-07-05 14:27:07.898 org.sleuthkit.autopsy.keywordsearch.Server runSolrCommand
+INFO: Running Solr command: [D:\jre\bin\java, -Xmx512m, -DSTOP.PORT=34343, -Djetty.port=23232, -DSTOP.KEY=jjk#09s, -jar, start.jar, --stop]
+2020-07-05 14:27:07.902 org.sleuthkit.autopsy.keywordsearch.Server runSolrCommand
+INFO: Finished running Solr command
+2020-07-05 14:27:07.902 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Waiting for Solr server to stop
+2020-07-05 14:27:08.708 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Finished stopping Solr server
+2020-07-05 14:27:08.708 org.sleuthkit.autopsy.core.Installer <init>
+INFO: core installer created
+2020-07-05 14:27:08.721 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+INFO: Closing current case rhino (rhino_20200705_131956) in G:\rhino
+2020-07-05 14:27:10.73 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Shutting down image gallery controller for case rhino (rhino_20200705_131956)
+2020-07-05 14:27:10.737 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
+INFO: Closing the drawable.db
+2020-07-05 14:27:10.739 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Completed shut down of image gallery controller for case rhino (rhino_20200705_131956)
